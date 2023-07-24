@@ -1,0 +1,30 @@
+body{
+    background-color: beige;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    color: orange;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+h2{
+    color: teal;
+    font-size: 30px;
+}
+
+h3{
+    color: #35A29F;
+    font-size: 30px;
+}
+a{
+    color: navy;
+}
+
+nav, footer, h1{
+    text-align: center;
+}
